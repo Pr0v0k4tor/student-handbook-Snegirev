@@ -1,1 +1,1 @@
-# student-handbook-Snegirev
+- Снегирев - Team Lead
