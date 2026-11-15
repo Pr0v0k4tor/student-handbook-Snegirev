@@ -1,1 +1,4 @@
-- Снегирев - Team Lead
+- Снегирев 1 - Team Lead
+- Снегирев 2 - Developer 1
+- Снегирев 3 - Developer 2
+- Снегирев 4 - Reviewer / QA
